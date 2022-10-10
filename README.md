@@ -2,6 +2,7 @@
 
 -Junior Back-End Developer 
 -Learning Java, Python, Angular, React and C#
+- Learning Java, Python, Angular, React and C#
 
  <div align="center">
   <a href="https://github.com/LucasHenriqueSL">
