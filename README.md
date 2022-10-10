@@ -33,7 +33,7 @@
 <!-- ![Snake animation](https://github.com/LucasHenriqueSL/LucasHenriqueSL/blob/output/github-contribution-grid-snake.svg) -->
   ##   
    
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasHenriqueSL&theme=tokyo-night	)]
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasHenriqueSL&theme=tokyo-night	)](https://github.com/LucasHenriqueSL/github-readme-activity-graph)
 
     
     
