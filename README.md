@@ -2,9 +2,9 @@
 
  <div align="center">
   <a href="https://github.com/LucasHenriqueSL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueSL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=7&theme=dracula"/>
-  <image src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=dracula)(https://git.io/streak-stats)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueSL&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=7&theme=tokyo-night"/>
+  <image src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=tokyo-night)(https://git.io/streak-stats)">
 </div>
  
   <div style="display: inline_block" align="center"><br>
@@ -27,6 +27,7 @@
     
 ![Snake animation](https://github.com/LucasHenriqueSL/LucasHenriqueSL/blob/output/github-contribution-grid-snake.svg)
  
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
     
   </div>
  
