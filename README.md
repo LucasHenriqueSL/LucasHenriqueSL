@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <div align="center">
-  <image src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=radical)(https://git.io/streak-stats)">
+  <image src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=tokyonight_duo)(https://git.io/streak-stats)">
   <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
