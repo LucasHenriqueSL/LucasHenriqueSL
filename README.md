@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Lucas
 
--Junior Back-End Developer 
--Learning Java, Python, Angular, React and C#
+- Junior Back-End Developer 
 - Learning Java, Python, Angular, React and C#
-
+  ##
  <div align="center">
   <a href="https://github.com/LucasHenriqueSL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueSL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
