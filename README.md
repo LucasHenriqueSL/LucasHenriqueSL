@@ -3,6 +3,7 @@
 - Junior Back-End Developer 
 - Learning Java, Python, Angular, React and C#
 - Working at [Tribunal de Contas do Estado de Minas Gerais](https://www.tce.mg.gov.br)
+- Trying to be better every day :)
   ##
  <div align="center">
   <a href="https://github.com/LucasHenriqueSL">
