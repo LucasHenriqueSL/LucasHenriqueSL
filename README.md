@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueSL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=radical)(https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=radical)(https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=radical)
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
