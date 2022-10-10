@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas
+## Hello! I'm Lucas
 
 - Junior Back-End Developer 
 - Learning Java, Python, Angular, React and C#
