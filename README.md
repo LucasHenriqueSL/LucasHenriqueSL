@@ -29,7 +29,7 @@
   <a href = "mailto:lucashenrique8736@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-henrique-0939191a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-![Snake animation](https://github.com/LucasHenriqueSL/LucasHenriqueSL/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/LucasHenriqueSL/LucasHenriqueSL/blob/output/github-contribution-grid-snake.svg) -->
   ##   
    
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasHenriqueSL&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
