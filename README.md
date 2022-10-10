@@ -4,7 +4,7 @@
   <a href="https://github.com/LucasHenriqueSL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueSL&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=7&theme=tokyo-night"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=radical&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=tokyo-night&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)" />
 </div>
    
    
