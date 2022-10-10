@@ -26,8 +26,11 @@
   <a href="https://www.linkedin.com/in/lucas-henrique-0939191a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 ![Snake animation](https://github.com/LucasHenriqueSL/LucasHenriqueSL/blob/output/github-contribution-grid-snake.svg)
- 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasHenriqueSL)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lucas's Activity Graph" src="https://LucasHenriqueSL-activity-graph.herokuapp.com/graph/?username=LucasHenriqueSL&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    
+    
     
   </div>
  
