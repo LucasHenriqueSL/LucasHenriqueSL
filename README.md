@@ -4,7 +4,7 @@
   <a href="https://github.com/LucasHenriqueSL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueSL&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=7&theme=tokyo-night"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=dracula)](https://git.io/streak-stats)"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=tokyo-night)](https://git.io/streak-stats)"/>
 </div>
    
    
@@ -32,7 +32,7 @@
 <!-- ![Snake animation](https://github.com/LucasHenriqueSL/LucasHenriqueSL/blob/output/github-contribution-grid-snake.svg) -->
   ##   
    
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasHenriqueSL&theme=tokyo-night	)](https://github.com/LucasHenriqueSL/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasHenriqueSL&theme=tokyo-night)](https://github.com/LucasHenriqueSL/github-readme-activity-graph)
 
     
     
