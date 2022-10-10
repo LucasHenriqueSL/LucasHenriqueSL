@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas
 
- <div>
+ <div align="center">
   <a href="https://github.com/LucasHenriqueSL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueSL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=7&theme=dracula"/>
