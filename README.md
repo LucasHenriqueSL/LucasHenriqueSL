@@ -8,7 +8,6 @@
  <div align="center">
   <image src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=radical)](https://git.io/streak-stats)">
   <div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=radical)(https://git.io/streak-stats)]
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
