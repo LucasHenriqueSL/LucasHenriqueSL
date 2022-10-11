@@ -10,7 +10,7 @@
  <div align="center">
   <a href="https://github.com/LucasHenriqueSL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueSL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=10&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)" />
 </div> 
    
