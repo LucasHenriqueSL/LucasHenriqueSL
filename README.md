@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=70A4FC&center=true&width=435&lines=Hello!+I'm+Lucas+Lara;Junior+Back-End+Developer+;Always+learning+new+things)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=70A4FC&center=true&vCenter=true&width=435&lines=Hello!+I'm+Lucas+Lara;Junior+Back-End+Developer+;Always+learning+new+things)](https://git.io/typing-svg)
 
 
 - Learning Java, Python, Angular, React and C#
