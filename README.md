@@ -1,9 +1,9 @@
-## Hello! I'm Lucas
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A4FC&width=435&lines=Hello!+I'm+Lucas;Junior+Back-End+Developer+;Always+learning+new+things)](https://git.io/typing-svg)
 
-- Junior Back-End Developer 
+
 - Learning Java, Python, Angular, React and C#
 - Working at [Tribunal de Contas do Estado de Minas Gerais](https://www.tce.mg.gov.br)
-- Trying to learn a little every day :)
+
 
   ##
   
