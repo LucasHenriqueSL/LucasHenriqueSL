@@ -41,8 +41,6 @@
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasHenriqueSL&theme=tokyo-night)](https://github.com/LucasHenriqueSL/github-readme-activity-graph)
 
     
-    
-    
   </div>
  
   
