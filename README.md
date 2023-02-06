@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=70A4FC&center=true&vCenter=true&width=435&lines=Hello!+I'm+Lucas+Lara;Junior+Back-End+Developer+;Always+learning+new+things!;Follow+me+to+see+new+projects)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Lucas+Lara;Junior+Back-End+Developer;Always+learning+new+things!;Follow+me+to+see+new+projects)](https://git.io/typing-svg)
 
 
 
