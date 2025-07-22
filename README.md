@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Lucas+Lara;Junior+Back-End+Developer;Always+learning+new+things!;Follow+me+to+see+new+projects)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Lucas+Lara;Back-End+Developer;Always+learning+new+things!;Follow+me+to+see+new+projects)](https://git.io/typing-svg)
 
 
 
