@@ -1,13 +1,19 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Lucas+Lara;Back-End+Developer;Always+learning+new+things!;Follow+me+to+see+new+projects)](https://git.io/typing-svg)
+
+
+
 - Learning Java, Python, Angular, React and C#
 - Working at [Tribunal de Contas do Estado de Minas Gerais](https://www.tce.mg.gov.br)
+
+
+
   ##
   
  <div align="center">
   <a href="https://github.com/LucasHenriqueSL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueSL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueSL&layout=compact&langs_count=8&theme=tokyonight"/>
-  [![](https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHenriqueSL&theme=tokyonight&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)" />
 </div> 
    
   ##
@@ -29,12 +35,18 @@
   
  <div align="center">
   <a href="https://www.instagram.com/lucashenriq__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lucashenrique8736@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucashenrique8736@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-henrique-0939191a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ##
+    
+<!-- ![Snake animation](https://github.com/LucasHenriqueSL/LucasHenriqueSL/blob/output/github-contribution-grid-snake.svg) -->
+
+  ## 
    
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasHenriqueSL&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
     
   </div>
+ 
+  
+  
