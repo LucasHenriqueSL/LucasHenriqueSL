@@ -2,6 +2,7 @@
 
 
 
+
 - Learning Java, Python, Angular, React and C#
 - Working at [Tribunal de Contas do Estado de Minas Gerais](https://www.tce.mg.gov.br)
 
